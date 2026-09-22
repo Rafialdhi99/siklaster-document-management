@@ -59,37 +59,57 @@ Each cluster contains related programs, allowing documents to be categorized and
 
 ### Dashboard Overview
 
+The dashboard provides a centralized overview of document statistics, verification status, cluster distribution, and program monitoring.
+
 ![Dashboard Overview](screenshots/01-dashboard-overview.png)
 
-### Dashboard - Cluster Distribution
+### Cluster Distribution
 
-![Dashboard Cluster Distribution](screenshots/02-dashboard-clusters.png)
+Document distribution can be monitored across the five healthcare service clusters.
 
-### Dashboard - Program Monitoring
+![Cluster Distribution](screenshots/02-dashboard-clusters.png)
 
-![Dashboard Program Monitoring](screenshots/03-dashboard-programs.png)
+### Program Monitoring
 
-![Dashboard Program Details](screenshots/04-dashboard-bottom.png)
+The dashboard provides document compliance and verification statistics for each program.
+
+![Program Monitoring](screenshots/03-dashboard-programs.png)
+
+### Dashboard Document Summary
+
+The lower dashboard section provides program-level statistics and the latest document activity.
+
+![Dashboard Document Summary](screenshots/04-dashboard-bottom.png)
 
 ### Document Upload
+
+Users can upload documents and classify them by cluster, program, document type, period, and year.
 
 ![Document Upload](screenshots/05-upload-document.png)
 
 ### Document Management
 
+Documents can be searched and filtered by cluster, program, year, status, document type, period, and uploader.
+
 ![Document Management](screenshots/06-documents.png)
 
 ### Document Verification
+
+Administrators can review documents submitted by users before approving or rejecting them.
 
 ![Document Verification](screenshots/07-document-verification.png)
 
 ### Verification History
 
+Completed document verification records can be searched and filtered for monitoring purposes.
+
 ![Verification History](screenshots/08-verification-history.png)
 
-### Login
+### Login Page
 
-![SIKLASTER Login](screenshots/09-login.png)
+SIKLASTER provides an authentication interface for authorized users.
+
+![Login Page](screenshots/09-login.png)
 
 ## Installation
 
